@@ -11,11 +11,9 @@ fitness-tracker/
 ├── main.py              # FastAPI application (all routes, ORM models, auth)
 ├── database.py          # PostgreSQL connection, SQLAlchemy engine & session
 ├── test_api.py          # Automated test suite for all 17 endpoints
-├── generate_report.py   # Generates hard copy.docx assignment report
-├── requirements.txt     # All Python dependencies
 ├── .gitignore           # Git exclusions
 ├── README.md            # This file
-└── SWAGGER_GUIDE.md     # Step-by-step Swagger UI interaction guide
+
 ```
 
 ---
